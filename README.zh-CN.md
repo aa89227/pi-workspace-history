@@ -17,7 +17,7 @@
 
 ## 这是什么
 
-`workspace-history` 是一个面向 `@mariozechner/pi-coding-agent` 的工作区历史插件。
+`workspace-history` 是一个面向 `@earendil-works/pi-coding-agent` 的工作区历史插件。
 
 它不是单纯给 `pi` 增加一个 `/undo` 命令，而是要让聊天历史和本地工作区文件状态一起回到过去、回到未来、或切换到任意历史分支节点。
 

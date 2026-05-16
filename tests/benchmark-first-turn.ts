@@ -9,12 +9,12 @@ import {
   ModelRegistry,
   SessionManager,
   SettingsManager,
-} from "@mariozechner/pi-coding-agent";
+} from "@earendil-works/pi-coding-agent";
 import {
   fauxAssistantMessage,
   fauxToolCall,
   registerFauxProvider,
-} from "@mariozechner/pi-ai";
+} from "@earendil-works/pi-ai";
 
 async function createWorkspace(rootDir: string, fileCount: number, fileSize: number): Promise<string> {
   const cwd = path.join(rootDir, "workspace");

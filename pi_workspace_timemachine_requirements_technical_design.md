@@ -2,7 +2,7 @@
 
 ## 1. 背景与目标
 
-本项目目标是在 `@mariozechner/pi-coding-agent` 中实现类似 Claude Code `/undo` 的体验，但其本质不应是一个孤立的撤销命令，而应是一个完整的“工作区时光机”。
+本项目目标是在 `@earendil-works/pi-coding-agent` 中实现类似 Claude Code `/undo` 的体验，但其本质不应是一个孤立的撤销命令，而应是一个完整的“工作区时光机”。
 
 用户在使用 Agent 编程时，经常会出现以下情况：
 

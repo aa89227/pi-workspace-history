@@ -17,7 +17,7 @@ Bring OpenCode style `/undo` to Pi, with the kind of workspace rollback safety t
 
 ## What It Is
 
-`workspace-history` is a workspace history plugin for `@mariozechner/pi-coding-agent`.
+`workspace-history` is a workspace history plugin for `@earendil-works/pi-coding-agent`.
 
 It is not just an extra `/undo` command. The goal is to make chat history navigation restore the real workspace state as well, so the user can move backward, forward, or across branches in history without leaving files behind in the wrong state.
 

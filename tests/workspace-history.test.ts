@@ -14,7 +14,7 @@ import {
   ModelRegistry,
   SessionManager,
   SettingsManager,
-} from "@mariozechner/pi-coding-agent";
+} from "@earendil-works/pi-coding-agent";
 import workspaceHistoryExtension, {
   rebuildTurnSnapshotsFromLegacyEntries,
   isWindowsReservedSnapshotPath,
@@ -23,7 +23,7 @@ import {
   fauxAssistantMessage,
   fauxToolCall,
   registerFauxProvider,
-} from "@mariozechner/pi-ai";
+} from "@earendil-works/pi-ai";
 
 type TestContext = {
   rootDir: string;
